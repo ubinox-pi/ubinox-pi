@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65y0gf.jpg" alt="tech meme" />
+<img align="right" height="180" src="https://i.imgflip.com/7y0q4j.jpg" alt="Tech Meme" />
 
 ###
 
@@ -21,6 +21,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white" height="30" alt="spring boot" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JSP-blue?style=flat&logo=java&logoColor=white" height="30" alt="jsp logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
   <img width="12" />
@@ -34,7 +38,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=archlinux&logoColor=white" height="30" alt="arch linux logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" alt="redhat logo" />
   <img width="12" />
@@ -66,5 +70,5 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ubinox-pi/ubinox-pi/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/ubinox-pi/ubinox-pi/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
